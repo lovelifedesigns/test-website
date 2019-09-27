@@ -1,6 +1,4 @@
 # test-website
 ## Adding Title
-## Title 1
-## Title 2
-## Title 3
-## This is a HotfixDev
+## Title 1,2,3
+## This is a Hotfixed in dev.
